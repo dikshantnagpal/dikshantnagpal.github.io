@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3c29723.css",
-    "main.js": "/static/js/main.9e76ee9c.js",
+    "main.css": "/static/css/main.d87c2bfd.css",
+    "main.js": "/static/js/main.de4b0dea.js",
     "static/media/jiomart.png": "/static/media/jiomart.80a9de93ce6049aacd78.png",
     "static/media/expedia.png": "/static/media/expedia.0c80705dcf829e0b68a9.png",
     "static/media/myglamm.png": "/static/media/myglamm.a7397f8dcdb8e4f2b0d6.png",
@@ -15,11 +15,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.a3c29723.css.map": "/static/css/main.a3c29723.css.map",
-    "main.9e76ee9c.js.map": "/static/js/main.9e76ee9c.js.map"
+    "main.d87c2bfd.css.map": "/static/css/main.d87c2bfd.css.map",
+    "main.de4b0dea.js.map": "/static/js/main.de4b0dea.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3c29723.css",
-    "static/js/main.9e76ee9c.js"
+    "static/css/main.d87c2bfd.css",
+    "static/js/main.de4b0dea.js"
   ]
 }
